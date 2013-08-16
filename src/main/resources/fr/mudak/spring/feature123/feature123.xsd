@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<xsd:schema xmlns="http://mudak.fr/feature123/feature123"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://mudak.fr/feature123/feature123"
+            elementFormDefault="qualified"
+            attributeFormDefault="unqualified">
+
+    <xsd:element name="feature-enable">
+        <xsd:complexType>
+            <xsd:attribute name="scan-package" type="xsd:string" use="required"/>
+        </xsd:complexType>
+    </xsd:element>
+
+</xsd:schema>
