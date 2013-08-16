@@ -19,8 +19,6 @@ Java 1.6 minimum is required.
 ## Licence
 All Feature123 is under the Apache Licence, Version 2.0
 
-## Usage
 
-### Maven dependency
 
 
